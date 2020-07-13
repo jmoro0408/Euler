@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c57da36-c3c2-4389-872a-2acf8662d0cb" name="Default Changelist" comment="" />
+    <list default="true" id="4c57da36-c3c2-4389-872a-2acf8662d0cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Euler1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Euler1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.pipev">
+    <configuration name="Euler1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Euler1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Euler2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -42,8 +65,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pipev" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PipeVelocity" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PipeVelocity/pipev.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pipev" />
+        <item itemvalue="Python.Euler1" />
         <item itemvalue="Python.Euler2" />
       </list>
     </recent_temporary>
@@ -62,21 +108,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="198" key="GridCell.Tab.0.bottom" timestamp="1594613963695">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1594659988603">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/-2560.0.1280.700/0.0.1600.860@0.0.1600.860" timestamp="1594659988603" />
     <state width="1259" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1594613963695" />
-    <state width="1259" height="198" key="GridCell.Tab.0.center" timestamp="1594613963694">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1594659988603">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.center/-2560.0.1280.700/0.0.1600.860@0.0.1600.860" timestamp="1594659988603" />
     <state width="1259" height="198" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1594613963694" />
-    <state width="1259" height="198" key="GridCell.Tab.0.left" timestamp="1594613963694">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1594659988603">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.left/-2560.0.1280.700/0.0.1600.860@0.0.1600.860" timestamp="1594659988603" />
     <state width="1259" height="198" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1594613963694" />
-    <state width="1259" height="198" key="GridCell.Tab.0.right" timestamp="1594613963695">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1594659988603">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="222" key="GridCell.Tab.0.right/-2560.0.1280.700/0.0.1600.860@0.0.1600.860" timestamp="1594659988603" />
     <state width="1259" height="198" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1594613963695" />
     <state x="141" y="50" key="SettingsEditor" timestamp="1594613902396">
       <screen x="0" y="23" width="1280" height="777" />
