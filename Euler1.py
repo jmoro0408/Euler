@@ -12,7 +12,6 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Find the sum of all the multiples of 3 or 5 below 1000.
 """
 
-
 def solution(number):
     sum = 0
     for i in range(number):
@@ -21,5 +20,4 @@ def solution(number):
     print(sum)
     return sum
 
-
-solution(500)
+solution(1000)
